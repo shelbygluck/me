@@ -71,3 +71,5 @@ function switchApple () {
     }
     console.log(chosenCompany)
 }
+
+//put switching of class names into colored objects

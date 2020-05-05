@@ -8,28 +8,65 @@
     justify-content: space-around;
 }
 
-/* google (logo/text)
-#4285F4
-#DB4437
-#F4B400
-#0F9D58
+.google .first {
+  color: #4285F4;
+}
 
-microsoft (first four logo, last one text)
-#F25022
-#7FBA00
-#00A4EF
-#FFB900
-#737373
+.google .second {
+  color: #DB4437;
+}
 
-apple (last one is white)
-#A3AAAE
-#000000
-#F9F6EF
+.google .third {
+  color: #F4B400;
+}
 
-amazon
-#FF9900
-#000000 */
+.google .fourth {
+  color: #0F9D58;
+}
+.microsoft .first {
+  color: #7FBA00;
+}
 
+.microsoft .second {
+  color: #F25022;
+}
+
+.microsoft .third {
+  color: #00A4EF;
+}
+
+.microsoft .fourth {
+  color: #FFB900;
+}
+
+.apple .first {
+  color: #A3AAAE;
+}
+
+.apple .second {
+  color: #000000;
+}
+.apple .third {
+  color: #A3AAAE;
+}
+
+.apple .fourth {
+  color: #F9F6EF;
+}
+
+.amazon .first {
+  color: #FF9900;
+}
+
+.amazon .second {
+  color: #000000;
+}
+.amazon .third {
+  color: #FF9900;
+}
+.amazon .fourth {
+  color: #000000;
+}
 
 
 

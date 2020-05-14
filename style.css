@@ -69,7 +69,9 @@
 }
 
 
-
+#navbar {
+  display: flex;
+}
 
 
 
